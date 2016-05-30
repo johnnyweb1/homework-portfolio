@@ -1,27 +1,50 @@
 body{
 	font-family: 'Comfortaa', cursive;
+	color: #d9d4d0;
 	text-align: center;
-	background-color: rgb(246,246,246);
+	background-color: #36291f;
 	padding-left: 10%;
 	padding-right: 10%;
 	padding-top: 48px;
 	padding-bottom: 48px;
-	border-top-color: black;
+	border-top-color: white;
 	border-top-width: 5px;
 	border-top-style: solid;
-	border-bottom-color: black;
+	border-bottom-color: white;
 	border-bottom-width: 5px;
 	border-bottom-style: solid;
 }
 
-h1{
+h1{font-size: 35px;
 	
 }
 
+h2{font-size: 25px;}
+
 img{
+	width: 150px;
+	height: 150px;
 	float: left;
-	padding; 2px;
-	border: 5px solid red;
+	padding; 15px;
+	border: 5px solid #b18db3; 
 	border-radius: 180px;
-	background-color:#ff0;
+	box-shadow: 5px 5px 5px grey; 
+
 }
+
+nav{
+	text-decoration: none;
+}
+
+nav span{
+		font-style: italic;
+}
+
+a:link, a:visited	{
+color: 	white;
+}
+
+strong{
+	font-style: italic;
+}
+
