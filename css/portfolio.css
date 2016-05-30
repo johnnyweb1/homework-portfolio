@@ -7,7 +7,9 @@ h1{
 }
 
 img{
-	float: center;
+	width: auto;
+	height: auto;
+	 float: center;
 	padding; 10px;
 	border: 5px 
 	border-color: #b18db3;
@@ -16,6 +18,6 @@ img{
 
 }
 
-p{
-    
+li{
+   text-align: left; 
 }
