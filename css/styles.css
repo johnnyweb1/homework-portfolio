@@ -15,20 +15,42 @@ body{
 	border-bottom-style: solid;
 }
 
-h1{font-size: 35px;}
+h1{font-size: 45px;}
 
-h2{font-size: 25px;}
+h2{font-size: 30px;}
+
+h3{font-size: 20px;}
+
+h4{font-size: 15px;}
+
+p{font-size: 15px;}
+
+li{
+	font-size: 15px;
+   	text-align: left; 
+}
 
 img{
 	width: 150px;
 	height: 150px;
 	float: right;
-	padding; 15px;
+	padding: 0px;
 	border: 5px solid #b18db3; 
 	border-radius: 180px;
 	box-shadow: 10px 10px 10px #51330c; 
-
 	}
+
+.webpreview{
+	width: 336px;
+	height: 200px;
+	float: right;
+	margin: 5px;
+	border: 5px solid #b18db3; 
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #51330c; 
+}
+
+
 
 nav{
 	text-decoration: none;
@@ -47,6 +69,4 @@ strong{
 }
 
 
-li{
-   text-align: left; 
-}
+
